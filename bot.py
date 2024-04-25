@@ -156,3 +156,4 @@ async def artikel(ctx):
         await ctx.send(f'https://dislhk.badungkab.go.id/artikel/18286-inilah-cara-untuk-mencegah-pencemaran-udara')
     elif x == 3:
         await ctx.send(f'https://telemed.ihc.id/artikel-detail-995-Bagaimana-Melindungi-Kesehatan-Dari-Polusi-Udara.html')
+bot.run('token bot')
